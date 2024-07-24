@@ -1,1 +1,2 @@
-
+import numpy as np
+print (y=[65,765,874])
